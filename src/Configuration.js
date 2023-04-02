@@ -30,7 +30,8 @@ class Configuration {
                           'darkey', 'darkie', 'darkies', 'darkys', 'darkeys', 'redskin', 'redskins', 'squinty', 'tacohead', 'anal', 'bastard', 'blowjob', 'boner', 
                           'boob', 'boobs', 'boobies', 'boobeez', 'boobiez', 'boobz', 'tit', 'tits', 'titties', 'dildo', 'vagina', 'whore', 'cum', 'heil', 'sex', 
                           'piss', 'bitch', 'fap', 'rape', 'raped', 'kekma'],
-      "blacklistedPlayers": []
+      blacklistedPlayers: [],
+      embedMessages: true
     },
     express: {
       enabled: false,
